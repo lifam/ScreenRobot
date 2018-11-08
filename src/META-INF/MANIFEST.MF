@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib\jmf.jar lib\mediaplayer.jar lib\sound.jar
+Main-Class: com.Lifam_Ragor.ScreenRobot.ScreenRobot
+

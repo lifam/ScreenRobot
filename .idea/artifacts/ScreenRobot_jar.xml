@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ScreenRobot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScreenRobot_jar</output-path>
+    <root id="archive" name="ScreenRobot.jar">
+      <element id="module-output" name="ScreenRobot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jmf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/sound.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mediaplayer.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
